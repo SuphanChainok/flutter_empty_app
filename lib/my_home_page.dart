@@ -17,7 +17,7 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             Text('Supan wanna freedom', style: TextStyle(fontSize: 25),),
-            Text('Supan so handsome!', style: TextStyle(fontFamily: 'arial',fontSize: 20),),
+            Text('Supan very handsome!', style: TextStyle(fontFamily: 'arial',fontSize: 20),),
           ],
         )
       )
